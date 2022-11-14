@@ -28,14 +28,6 @@ There is three screen including a splash screen. Login screen contains a email a
 4. Run the project using ***npx react-native run-android** , if you are on Linux OS then you need to run **npx react-native run-android && npm start**.
 
 
-## Challenges
 
-One can take as much challenge as you can by modifying the code or he/she create the entire project by their by taking help with this project. Here is a list of some quick challenges - 
-
-1. Add a Password validation using RegEx - Password must be 6 charecter long , must include one Capital Letter one small letter and one number.
-2. After login fetch the entered email from local storage of the application and show it on the top the Product list page in such way - if email is abcde@gmail.com then it should be shown as "Welcome abcde" (remove the @gmail.com from the stored email)
-3. Change the splash screen image with a animated image (gif).
-4. Add a search filed in the product list page and search using the title of the products.
-5. Add filter and filter with 'Price Low to High or Price High to Low' , 'Rating low to high or High to Low'.
 
 
